@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=m7d2&theme=onedark)](https://github.com/m7d2/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m7d2&theme=dracula)](https://github.com/m7d2/github-profile-trophy)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m7d2&show_icons=true&theme=radical)
 
