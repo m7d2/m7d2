@@ -5,7 +5,7 @@
 
 Nice to e-meet you! I'm Mohammad Rashed, a high school student from Canada 🇨🇦. I'm a web & video games developer. I love working on cool projects and making things become reality. I'm the leader of ODYTEK team and currently working on TEKTABLE. In my very limited free time, I enjoy exploring new stuff in the tech world. 
 
-<div align="center"><a href="mailto:mo2002mohammad@gmail.com">📧</a></div>
+<div align="center"><a href="mailto:m7dgithub@gmail.com">📧</a></div>
 
 
 <details closed>
