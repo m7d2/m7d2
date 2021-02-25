@@ -1,10 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=m7d2&theme=dracula)](https://github.com/m7d2/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m7d2&show_icons=true&theme=radical)
-
-
 <div align="center">
  <img align="center" src="https://cloud-m7ewqwpnv.vercel.app/0wave.gif" alt="waving hand" width="170" height="170">
  <h1 align="center"> Hello there, you've stumbled upon my GitHub profile.</h1>
