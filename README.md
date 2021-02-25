@@ -17,9 +17,10 @@ Nice to e-meet you! I'm Mohammad Rashed, a high school student from Canada ðŸ‡¨ð
  <p align="center">(excluding private repositories)</p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&layout=compact" alt="top languages">
-  <img align="center" src="https://komarev.com/ghpvc/?username=m7d2&label=PROFILE+VIEWS" alt="profile views">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=m7d2&theme=dracula" alt="Trophy">
+ Some Stats <br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&layout=compact" alt="top languages"> <br>
+  <img align="center" src="https://komarev.com/ghpvc/?username=m7d2&label=PROFILE+VIEWS" alt="profile views"> <br>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=m7d2&theme=dracula" alt="Trophy"><br>
 </p>
 </div>
 
