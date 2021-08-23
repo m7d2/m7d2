@@ -49,7 +49,7 @@ const MohammadRashed = {
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=m7d2&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=m7d2&rank=S&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
   </a>
 </p>
 </details>
