@@ -1,5 +1,5 @@
 <B>🎶 Currently listening To <br><br>
-[![Spotify](https://novatorem-m7d2.vercel.app/api/spotify)]()
+[![Spotify](https://novatorem-m7d2.vercel.app/api/spotify)](https://open.spotify.com)
 
 <h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Mohammad Rashed</h2>
 
