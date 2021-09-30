@@ -1,3 +1,5 @@
+[![Spotify](https://novatorem-m7d2.vercel.app/api/spotify)](https://open.spotify.com/user/pqzbiwwhg591ymxwbiqg2urzt)
+
 <h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Mohammad Rashed</h2>
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
