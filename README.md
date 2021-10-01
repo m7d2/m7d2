@@ -1,6 +1,8 @@
-## <B>🎶 Currently listening To
-[![Spotify](https://novatorem-m7d2.vercel.app/api/spotify)](https://open.spotify.com)
+<div align="center">
+<B> Currently listening To :whale2:
 
+[![Spotify](https://novatorem-m7d2.vercel.app/api/spotify)](https://open.spotify.com)
+	</div>
 <h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Mohammad Rashed</h2>
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
