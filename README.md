@@ -60,7 +60,7 @@ const MohammadRashed = {
 </p>
 </details>
 
-<p><code><img height="20" src="https://komarev.com/ghpvc/?username=m7d2&color=blue"></code></p>
+<p align="center"><code><img height="20" src="https://komarev.com/ghpvc/?username=m7d2&color=blue"></code></p>
 
 
 
