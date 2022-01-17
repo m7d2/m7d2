@@ -61,7 +61,3 @@ const MohammadRashed = {
 </details>
 
 <p align="center"><code><img height="20" src="https://komarev.com/ghpvc/?username=m7d2&color=blue"></code></p>
-
-
-
-
