@@ -13,9 +13,9 @@ Hi, my name is Mohammad Rashed. I am a software engineer & video games developer
 ## A little more about me...  
 ```javascript
 const MohammadRashed = {
-	code: ['Python', 'C#', 'C++', 'JavaScript', 'TypeScript'],
+	code: [ Python, C#, C++, JavaScript, TypeScript ],
 	framework: [ React Js, Next Js, NodeJS ],
-	tools: [Tailwind CSS, Bootstrap, Styled-Components],
+	tools: [ Tailwind CSS, Bootstrap, Styled-Components ],
 	techCommunities: {
 		ODYTEK: "Leader of a talented group of people who are interested in technology."
 	},
