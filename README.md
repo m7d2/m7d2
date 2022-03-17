@@ -7,13 +7,13 @@
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
-Hi, my name is Mohammad Rashed. I am a high school graduate from Canada. I like to code things from scratch, and enjoy bringing ideas to life in the browser & in real life! I am a Web Developer & a Video Games Developer. I love playing around with web design and electronics & hopefully creating something that makes people smile.
+Hi, my name is Mohammad Rashed. I am a software engineer & video games developer from Canada. I like to code things from scratch, and enjoy bringing ideas to life in the browser & in real life! I am a Web Developer & a Video Games Developer. I love playing around with web design and electronics & hopefully creating something that makes people smile.
 
 
 ## A little more about me...  
 ```javascript
 const MohammadRashed = {
-	code: [Python, C#, C++, JavaScript, TypeScript],
+	code: ['Python', 'C#', 'C++', 'JavaScript', 'TypeScript'],
 	framework: [ React Js, Next Js, NodeJS ],
 	tools: [Tailwind CSS, Bootstrap, Styled-Components],
 	techCommunities: {
@@ -33,7 +33,7 @@ const MohammadRashed = {
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to hear from you!</b> :)</em></div>
 
-[<div align="center"><img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858102-f8eb952a-0273-41f6-add2-6ab7dab8cfe4.png"/>](https://www.linkedin.com/in/mohammad-rashed-9454391ab/)
+[<div align="center"><img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858102-f8eb952a-0273-41f6-add2-6ab7dab8cfe4.png"/>](https://www.linkedin.com/in/mohammad-rashed)
 [<img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858150-193ef995-c8f9-4e46-ac2a-2a96f5897b4f.png"/></div>](https://twitter.com/m7d_syr) 
 <br />
 	
