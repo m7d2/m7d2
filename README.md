@@ -1,10 +1,12 @@
 <div align="center">
-<B> Currently listening To :whale2:
+<B> Listening To:
 
 [![Spotify](https://novatorem-m7d2.vercel.app/api/spotify)](https://open.spotify.com)
-	</div>
-<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Mohammad Rashed</h2>
 
+</div>
+
+<h2> Hi, I'm Mohammad Rashed</h2>
+<div align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></div>
 <!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'> -->
 
 Hi, my name is Mohammad Rashed. I am a software engineer & video games developer from Canada. I like to code things from scratch, and enjoy bringing ideas to life in the browser & in real life! I am a Web Developer & a Video Games Developer. I love playing around with web design and electronics & hopefully creating something that makes people smile.
