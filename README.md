@@ -42,7 +42,9 @@ const MohammadRashed = {
 <summary><h2>Github Stats 📈:</h2></summary>
 	
 <p align="center">
-  <img height= "180px" src="https://github-readme-stats-m7d2.vercel.app/api?username=m7d2&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&count_private=true" />
+  <img align="center" height= "180px" src="https://github-readme-stats-m7d2.vercel.app/api?username=m7d2&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&count_private=true" />
+  <h4 align="center">*Contributions doesn't include private repositories.</h4>
+  
 <!--   <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" /> -->
 </p>
 
