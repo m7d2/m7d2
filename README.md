@@ -50,7 +50,7 @@ const MohammadRashed = {
 <!--   <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" /> -->
 </p>
 
-<details align="center">
+<!-- <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=m7d2&theme=xcode" />
@@ -64,6 +64,6 @@ const MohammadRashed = {
     <img src="https://hacked-github-stat-trophies.vercel.app/?username=m7d2&column=4&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&theme=darkhub"/>
   </a>
 </p>
-</details>
+</details> -->
 
 <p align="center"><code><img height="20" src="https://komarev.com/ghpvc/?username=m7d2&color=blue"></code></p>
