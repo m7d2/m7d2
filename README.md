@@ -69,8 +69,8 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people,</b> if you want to say <b>hi or want to talk, I'll be happy to hear from you!</b> :)</em></div>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/mohammad-rashed"><img src="https://img.shields.io/badge/Mohammad%20Rashed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://m7dstudios.com"><img src="./logo.svg" /></a>
+<a href="https://www.linkedin.com/in/mohammad-rashed" target="_blank"><img src="https://img.shields.io/badge/Mohammad%20Rashed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://m7dstudios.com" target="new"><img src="./logo.svg" /></a>
 
 <br />
 	
