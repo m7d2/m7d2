@@ -80,6 +80,9 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 
 </p>
 
+> [!NOTE]
+> Contributions doesn't include private repositories.
+
 <!--   <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" /> -->
 <!-- <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
@@ -98,6 +101,3 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 </details> -->
 
 <p align="center"><code><img height="20" src="https://komarev.com/ghpvc/?username=m7d2&color=blue"></code></p>
-
-> [!IMPORTANT]
-> Contributions doesn't include private repositories.
