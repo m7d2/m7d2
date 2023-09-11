@@ -11,7 +11,8 @@
 
 I like to code things from scratch, and enjoy bringing ideas to life in the browser & in real life! I am a Web Developer as well & I love playing around with web design and electronics & hopefully one day I'll be able to create something that makes people smile, something that changes their lives for the better and change the world with it!
 </div>
-
+> [!NOTE]
+> Contributions doesn't include private repositories.
 ## A little more about me...  
 
 <h3  align="center">Languages 🗿</h3>
@@ -75,10 +76,9 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 	
 <p align="center">
   <img align="center" height= "180px" src="https://github-readme-stats-m7d2.vercel.app/api?username=m7d2&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&count_private=true" />
-  
+
 </p>
-> [!IMPORTANT]
-> Contributions doesn't include private repositories.
+
 <!--   <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" /> -->
 <!-- <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
