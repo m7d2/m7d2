@@ -19,7 +19,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 <p align="center">
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?logo=openjdk&logoColor=black&style=for-the-badge" />
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -35,14 +35,14 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 </p>
 <h3 align="center">Tools 🛠️</h3>
 <p align="center">
-	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+	<a href="https://github.com/m7d2"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   	<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=for-the-badge" />
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=for-the-badge" />
 	<img alt="RIDER" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
 	<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
-	<img alt="UE" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+	<img alt="UE" src="https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
 	<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
@@ -52,7 +52,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
 
-<h3 align="center">PC Spec</h3>
+<h3 align="center">PC Spec ⚙️</h3>
 <p align="center">
 	<img alt="gpu" src="https://img.shields.io/badge/NVIDIA-RTX%203070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 	<img alt="cpu" src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
@@ -67,15 +67,15 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 
 <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people,</b> if you want to say <b>hi or want to talk, I'll be happy to hear from you!</b> :)</em></div>
-
-[<div align="center">
-[<img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858102-f8eb952a-0273-41f6-add2-6ab7dab8cfe4.png"/>](https://www.linkedin.com/in/mohammad-rashed)
-[<img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858150-193ef995-c8f9-4e46-ac2a-2a96f5897b4f.png"/>](https://twitter.com/m7d_syr) </div>
+<br>
+<div align="center">
+<a href="https://www.linkedin.com/in/mohammad-rashed"><img src="https://img.shields.io/badge/Mohammad%20Rashed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://m7dstudios.com"><img src="./logo.svg" /></a>
 
 <br />
 	
 <summary><h2>Github Stats 📈:</h2></summary>
-	
+
 <p align="center">
   <img align="center" height= "180px" src="https://github-readme-stats-m7d2.vercel.app/api?username=m7d2&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&count_private=true" />
 
