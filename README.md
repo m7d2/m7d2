@@ -12,23 +12,56 @@
 I like to code things from scratch, and enjoy bringing ideas to life in the browser & in real life! I am a Web Developer as well & I love playing around with web design and electronics & hopefully one day I'll be able to create something that makes people smile, something that changes their lives for the better and change the world with it!
 </div>
 
-## A little more about me...  
-```javascript
-const MohammadRashed = {
-	code: [ Python, C#, C++, JavaScript, TypeScript ],
-	framework: [ React Js, Next Js, NodeJS ],
-	tools: [ Tailwind CSS, Bootstrap, Styled-Components ],
-	techCommunities: {
-		ODYTEK: "Leader of a talented group of people who are interested in technology."
-	},
-	askMeAbout: ["Web Development", "Electronics", "Game Development"],
-	challenge: "I am starting my own tech company"
-}
-```
+> [!IMPORTANT]  
+> Test
 
+## A little more about me...  
+
+<h3  align="center">Languages 🗿</h3>
+<p align="center">
+<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?logo=openjdk&logoColor=black&style=for-the-badge" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
+<h3  align="center">Frameworks 📚</h3>
+<p align="center">
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+<img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+<h3 align="center">Tools 🛠️</h3>
+<p align="center">
+	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  	<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=for-the-badge" />
+	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=for-the-badge" />
+	<img alt="RIDER" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
+	<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
+	<img alt="UE" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+	<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+<h3 align="center">OS 💻</h3>
+<p align="center">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+</p>
+
+<h3 align="center">PC Spec</h3>
+<p align="center">
+	<img alt="gpu" src="https://img.shields.io/badge/NVIDIA-RTX%203070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+	<img alt="cpu" src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+	
+</p>
 <p align="center">
    
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=m7d2&theme=neon-dark"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=m7d2&theme=neon-dark"/>
 
 </p>
 
@@ -49,6 +82,8 @@ const MohammadRashed = {
   
 <!--   <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" /> -->
 </p>
+
+
 
 <!-- <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
