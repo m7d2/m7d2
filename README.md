@@ -10,11 +10,10 @@
 <!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'> -->
 
 I like to code things from scratch, and enjoy bringing ideas to life in the browser & in real life! I am a Web Developer as well & I love playing around with web design and electronics & hopefully one day I'll be able to create something that makes people smile, something that changes their lives for the better and change the world with it!
-</div>
-> [!IMPORTANT]
-> Contributions doesn't include private repositories.
 
-## A little more about me...  
+</div>
+
+## A little more about me...
 
 <h3  align="center">Languages 🗿</h3>
 <p align="center">
@@ -65,6 +64,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 </p>
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
+
 <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people,</b> if you want to say <b>hi or want to talk, I'll be happy to hear from you!</b> :)</em></div>
 
 [<div align="center">
@@ -98,3 +98,6 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 </details> -->
 
 <p align="center"><code><img height="20" src="https://komarev.com/ghpvc/?username=m7d2&color=blue"></code></p>
+
+> [!IMPORTANT]
+> Contributions doesn't include private repositories.
