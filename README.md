@@ -76,18 +76,17 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 <p align="center">
   <img align="center" height= "180px" src="https://github-readme-stats-m7d2.vercel.app/api?username=m7d2&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&count_private=true" />
   
-<!--   <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" /> -->
 </p>
+> [!NOTE]
+> Contributions doesn't include private repositories.
+<!--   <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7d2&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" /> -->
 <!-- <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=m7d2&theme=xcode" />
 </p>
-</details>
-
-> [!NOTE]
-> Contributions doesn't include private repositories.
-
+</details> -->
+<!--
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
