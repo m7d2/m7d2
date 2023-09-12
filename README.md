@@ -45,7 +45,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 	<a href="https://www.jetbrains.com/rider/"><img alt="RIDER" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" /></a>
 	<a href="https://www.figma.com/"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <!-- 	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-9a99ff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=00005a" /> -->
-	<a href="https://www.adobe.com/ca/products/aftereffects.html"><img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-00005a?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=9a99ff" /></a>
+	<a href="https://www.adobe.com/ca/products/aftereffects.html"><img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20Effects-00005a?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=9a99ff" /></a>
 	<a href="https://www.maxon.net/en/cinema-4d"><img alt="C4D" src="https://img.shields.io/badge/maxon%20cinema%204d-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" /></a>
 	<a href="https://www.unrealengine.com/en-US"><img alt="UE" src="https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
 	<a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
