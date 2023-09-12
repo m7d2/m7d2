@@ -20,6 +20,8 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?logo=openjdk&logoColor=black&style=for-the-badge" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -31,6 +33,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=61DAFB" />
 <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 <h3 align="center">Tools 🛠️</h3>
@@ -43,6 +46,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 	<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <!-- 	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-9a99ff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=00005a" /> -->
 	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-00005a?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=9a99ff" />
+	<img alt="C4D" src="https://img.shields.io/badge/maxon%20cinema%204d-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" />
 	<img alt="UE" src="https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
 	<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
