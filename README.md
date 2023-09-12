@@ -75,7 +75,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 
 <br />
 	
-<summary><h2>Github Stats 📈:</h2></summary>
+<h2>Github Stats 📈</h2>
 
 <p align="center">
   <img align="center" height= "180px" src="https://github-readme-stats-m7d2.vercel.app/api?username=m7d2&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&count_private=true" />
