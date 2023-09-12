@@ -39,16 +39,18 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 <h3 align="center">Tools 🛠️</h3>
 <p align="center">
 	<a href="https://github.com/m7d2"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  	<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=for-the-badge" />
-	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=for-the-badge" />
-	<img alt="RIDER" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
-	<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+	<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /></a>
+  	<a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=for-the-badge" /></a>
+	<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=for-the-badge" /></a>
+	<a href="https://www.jetbrains.com/rider/"><img alt="RIDER" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" /></a>
+	<a href="https://www.figma.com/"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <!-- 	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-9a99ff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=00005a" /> -->
-	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-00005a?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=9a99ff" />
-	<img alt="C4D" src="https://img.shields.io/badge/maxon%20cinema%204d-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" />
-	<img alt="UE" src="https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
-	<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+	<a href="https://www.adobe.com/ca/products/aftereffects.html"><img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-00005a?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=9a99ff" /></a>
+	<a href="https://www.maxon.net/en/cinema-4d"><img alt="C4D" src="https://img.shields.io/badge/maxon%20cinema%204d-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" /></a>
+	<a href="https://www.unrealengine.com/en-US"><img alt="UE" src="https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
+	<a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+	<a href="https://www.sketchup.com/"><img alt="skup" src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=SketchUp&logoColor=white" /></a>
+	<a href="https://partner.steamgames.com/"><img alt="steamworks" src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
 <h3 align="center">OS 💻</h3>
