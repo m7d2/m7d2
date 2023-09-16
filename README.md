@@ -5,7 +5,7 @@
 
 </div>
 
-<h2> Hi, I'm Mohammad Rashed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="26px" width="30px"></h2> 
+<h2 align="center"> Hi, I'm Mohammad Rashed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="26px" width="30px"></h2> 
 <div align="center">A Software Engineer & Video Games Developer from 🍁
 <!-- <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'> -->
 
@@ -13,7 +13,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 
 </div>
 
-## A little more about me...
+<h2 align="center"> A little more about me...</h2>
 
 <h3  align="center">Languages 🗿</h3>
 <p align="center">
