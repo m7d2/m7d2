@@ -1,5 +1,5 @@
 <div align="center">
-<B> Listening To:
+<!-- <B> Listening To: -->
 
 [![Spotify](https://novatorem-m7d2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com)
 
