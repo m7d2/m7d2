@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center"> Hi, I'm Mohammad Rashed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="26px" width="30px"/></h2>
-<div align="center">A Software Engineer & Video Games Developer from 🍁
+<div align="center">A Software Engineer & Video Games Developer from 🍁<br>
 I like to code things from scratch, and enjoy bringing ideas to life in the browser & in real life! I am a Web Developer as well & I love playing around with web design and electronics & hopefully one day I'll be able to create something that makes people smile, something that changes their lives for the better and change the world with it!
 
 </div>
