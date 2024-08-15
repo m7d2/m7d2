@@ -1,9 +1,6 @@
 <div align="center">
 	
 ![Spotify](https://novatorem-m7d2.vercel.app/api/spotify?background_color=none&border_color=none)
-<h2 align="center"><a href="https://github.com/m7d2/GithubFriends" target="_blank">Github Friends</a></h2>
-
-![Github Friends](https://github.com/m7d2/m7d2/assets/27922678/1380e588-735b-4742-9166-c2f295b99235)
 
 
 <!-- ![Spotify](https://novatorem-m7d2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff) With border -->
