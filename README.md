@@ -12,7 +12,7 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 
 </div>
 
-<h2 align="center"> A little more about me</h2>
+<!-- <h2 align="center"> A little more about me</h2>
 <h3  align="center">Languages 🗿</h3>
 <p align="center">
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -43,14 +43,14 @@ I like to code things from scratch, and enjoy bringing ideas to life in the brow
 	<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=for-the-badge" /></a>
 	<a href="https://www.jetbrains.com/rider/"><img alt="RIDER" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" /></a>
 	<a href="https://www.figma.com/"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<!-- 	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-9a99ff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=00005a" /> -->
+<!- - 	<img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20affects-9a99ff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=00005a" /> - ->
 	<a href="https://www.adobe.com/ca/products/aftereffects.html"><img alt="AE" src="https://img.shields.io/badge/Adobe%20after%20Effects-00005a?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=9a99ff" /></a>
 	<a href="https://www.maxon.net/en/cinema-4d"><img alt="C4D" src="https://img.shields.io/badge/maxon%20cinema%204d-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" /></a>
 	<a href="https://www.unrealengine.com/en-US"><img alt="UE" src="https://img.shields.io/badge/unreal%20engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
 	<a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
 	<a href="https://www.sketchup.com/"><img alt="skup" src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=SketchUp&logoColor=white" /></a>
 	<a href="https://partner.steamgames.com/"><img alt="steamworks" src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white" /></a>
-</p>
+</p> -->
 
 <p align="center"><code><img height="20" src="https://komarev.com/ghpvc/?username=m7d2&color=8f40ff"></code></p>
 <p align="center">
